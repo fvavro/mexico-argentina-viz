@@ -1,2 +1,2 @@
 # mexico-argentina-viz
-Visualization for Andrea Fuertes
+Visualization for Andrea Fuentes
